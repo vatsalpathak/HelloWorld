@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">HelloWorld</string>
+    <string name="intro">Hello my name is Vatsal</string>
+</resources>
